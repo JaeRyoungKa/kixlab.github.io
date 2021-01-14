@@ -223,6 +223,11 @@ positions:
         img: "jeongeon.jpg"
         site: "https://jeongeon.me"
         
+      - name: Jaeryoung
+        career: Research Intern
+        img: "neobjuok.jpg"
+        site: "https://shuloco.blogspot.com/"
+        
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
